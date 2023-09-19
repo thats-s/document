@@ -12,3 +12,5 @@
   * [git-flow](/Git/git-flow.md)
 * ToolManager
   * [Volta](/ToolManager/Volta/Volta.md)
+* Websiteの設定
+  * [favicon](/WebsiteSetting/favicon/favicon.md)
