@@ -5,6 +5,7 @@
 ## リンク
 
 * 開発環境
+  * [editorconfig](/DevelopmentSetting/editorconfig/editorconfig.md)
   * [Prettier](/DevelopmentSetting/Prettier/Prettier.md)
     * plugin
       * [prettier-plugin-sort-imports](DevelopmentSetting/Prettier/plugin/prettier-plugin-sort-imports.md)
